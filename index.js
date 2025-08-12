@@ -8,3 +8,4 @@ import additionalAppSetup from './src/setup';
 
 AppRegistry.registerComponent(Config.APP_NAME, () => App);
 additionalAppSetup();
+
